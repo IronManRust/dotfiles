@@ -15,7 +15,7 @@ rules:
       allow-single-line: true
       style: 1tbs
   class-name-format:
-    - 2
+    - 1
     -
       allow-leading-underscore: false
       convention: hyphenatedlowercase
