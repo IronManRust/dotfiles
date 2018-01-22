@@ -18,7 +18,7 @@
         "inlineSourceMap": false,
         "inlineSources": false,
         "isolatedModules": false,
-        "jsx": "preserve",
+        "jsx": "react",
         "jsxFactory": "React.createElement",
         "listEmittedFiles": false,
         "listFiles": false,
@@ -50,7 +50,9 @@
         "traceResolution": false,
         "outDir": "build"
     },
-    "files": [],
+    "files": [
+        "tsconfig.types.ts"
+    ],
     "include": [
         "./src/**/*.ts",
         "./src/**/*.tsx"

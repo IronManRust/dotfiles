@@ -1,0 +1,15 @@
+{
+    "env": "json-schema-draft-04",
+    "ignore": [
+        "./dist/**/*",
+        "./doc/**/*",
+        "./plugins/**/*",
+        "./build/**/*",
+        "./coverage/**/*",
+        "./.nyc_output/**/*",
+        "./node_modules/**/*"
+    ],
+    "indent": "",
+    "pretty": true,
+    "validate": ""
+}
